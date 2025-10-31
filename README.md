@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-An undergraduate student majoring in IoT engine.
+An undergraduate student majoring in IoT engineer.
 
 Senior year in ZAFU && Hunting for a internship or job
 
