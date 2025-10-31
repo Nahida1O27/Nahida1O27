@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+An undergraduate student majoring in IoT engine.
+
+Senior year in ZAFU && Hunting for a internship or job
+
+
 <!--
 **Nahida1O27/Nahida1O27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
