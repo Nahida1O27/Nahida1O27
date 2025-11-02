@@ -4,7 +4,7 @@ An undergraduate student majoring in IoT engineering
 
 Senior year in ZAFU && Hunting for a internship or job
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27&layout=compact)
 
 
 <!--
