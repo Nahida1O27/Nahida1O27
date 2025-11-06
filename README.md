@@ -6,6 +6,7 @@ Senior year in ZAFU && Hunting for a internship or job
 
 ### I'm learning...
 - 🦀Rust
+- English
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27&layout=compact)
 
