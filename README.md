@@ -8,8 +8,8 @@ Senior year in ZAFU && Hunting for a internship or job
 - 🦀Rust
 - English
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27&layout=compact)  
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+  
 <!--
 **Nahida1O27/Nahida1O27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
