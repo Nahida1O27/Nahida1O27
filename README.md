@@ -13,15 +13,15 @@ Senior year in ZAFU && Hunting for a internship or job
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Nahida1O27/Nahida1O27/main/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Nahida1O27/Nahida1O27/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Nahida1O27/Nahida1O27/main/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Nahida1O27/Nahida1O27/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Nahida1O27/Nahida1O27/main/github-snake.svg"
+    src="https://raw.githubusercontent.com/Nahida1O27/Nahida1O27/output/github-contribution-grid-snake.svg"
   />
 </picture>
   
