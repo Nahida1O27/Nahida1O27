@@ -13,7 +13,7 @@ Senior year in ZAFU && Hunting for a internship or job
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nahida1O27/Nahida1O27/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nahida1O27/Nahida1O27/output/github-snake.svg">
-  <img alt="GitHub热力图贪吃蛇动画" src="https://raw.githubusercontent.com/Nahida1O27/Nahida1O27/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nahida1O27/Nahida1O27/output/github-snake.svg">
 </picture>
   
 <!--
