@@ -6,7 +6,13 @@ Senior year in ZAFU && Hunting for a internship or job
 ### I'm learning...
 - 🦀Rust
 - .NET
+- Go
 - English
+
+### I want to learn...
+- computer vision and conputer graphics
+- frontend(JS/TS+HTML+CSS and other frameworks)
+- mobile development
  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27&layout=donut&langs_count=9)](https://github.com/Nahida1O27/github-readme-stats)  -->
 
