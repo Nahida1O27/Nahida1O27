@@ -4,6 +4,7 @@ An undergraduate student majoring in IoT engineering
 Senior year in ZAFU && Hunting for a internship or job  
 
 ### I'm learning...
+- Flutter
 - 🦀Rust
 - .NET
 - Go
