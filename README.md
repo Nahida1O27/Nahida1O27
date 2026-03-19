@@ -6,6 +6,7 @@ Senior year in ZAFU && Hunting for a internship or job
 ### I'm learning...
 - Flutter
 - 🦀Rust
+- $\LaTeX$ for writing documents
 - .NET
 - Go
 - English
