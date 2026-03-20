@@ -16,7 +16,7 @@ Senior year in ZAFU && Hunting for a internship or job
 - frontend(JS/TS+HTML+CSS and other frameworks)
 - mobile development
  
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27&layout=donut&langs_count=9)](https://github.com/Nahida1O27/github-readme-stats)  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27&layout=donut&langs_count=9)](https://github.com/Nahida1O27/github-readme-stats)  
 
 <picture>
   <source
