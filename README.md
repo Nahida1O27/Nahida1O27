@@ -3,7 +3,7 @@
 An undergraduate student majoring in IoT engineering  
 Senior year in ZAFU && Hunting for a internship or job  
 
-#### 贵司在招兵买马？[该仓库]()托管着我的电子简历
+#### 贵司在招兵买马？[该仓库](../Resume)托管着我的电子简历
 
 ### I'm learning...
 - Flutter
