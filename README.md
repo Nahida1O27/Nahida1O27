@@ -1,6 +1,10 @@
+<table>
+  <tr>
+    <td>
+     
 ## Hi there 👋
 
-An undergraduate student majoring in IoT engineering  
+An undergraduate student majoring in IoT engineering<br>
 Senior year in ZAFU && Hunting for a internship or job  
 
 #### 贵司在招兵买马？[该仓库](../../../Resume)托管着我的电子简历，可[点此](../../../Resume/blob/main/latex%E6%8E%92%E7%89%88%E7%AE%80%E5%8E%86.pdf)预览或下载简历
@@ -17,8 +21,14 @@ Senior year in ZAFU && Hunting for a internship or job
 - computer vision and conputer graphics
 - frontend(JS/TS+HTML+CSS and other frameworks)
 - mobile development
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27&layout=donut&langs_count=9)](https://github.com/Nahida1O27/github-readme-stats)  
+    </td>
+    <td>
+    <a href="https://github.com/Nahida1O27/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27&layout=donut-vertical&langs_count=9&theme=dracula"/>
+    </a>
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source
