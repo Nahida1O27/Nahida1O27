@@ -14,7 +14,7 @@ Senior year in ZAFU && Hunting for a internship or job
 - 🦀Rust
 - $\LaTeX$ for writing documents
 - .NET
-- Go
+- Go [(Let's Gó!)](https://www.bilibili.com/video/BV1tZAYzYEff/?p=2&t=2902 "懂你意思")
 - English
 
 ### I want to learn...
