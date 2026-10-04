@@ -24,7 +24,7 @@ Hunting for a internship or job
     </td>
     <td>
     <a href="https://github.com/Nahida1O27/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida1O27&layout=donut-vertical&langs_count=9&theme=dracula"/>
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nahida1O27&layout=donut-vertical&langs_count=9&theme=dracula"/>
     </a>
     </td>
   </tr>
