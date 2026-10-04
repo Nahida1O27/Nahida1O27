@@ -7,7 +7,7 @@
 A graduated undergraduate majoring in IoT engineering<br>
 Hunting for a internship or job  
 
-#### 贵司在招兵买马？[该仓库](../../../Resume)托管着我的电子简历，可[点此](../../../Resume/blob/main/latex%E6%8E%92%E7%89%88%E7%AE%80%E5%8E%86.pdf)预览或下载简历
+#### 贵司在招兵买马？[该仓库](../../../Resume)托管着我的电子简历，可[点此](../../../Resume/blob/main/Glarboy.pdf)预览或下载简历
 
 ### I'm learning...
 - Flutter
