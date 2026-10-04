@@ -7,7 +7,7 @@
 A graduated undergraduate majoring in IoT engineering<br>
 Hunting for a internship or job  
 
-#### 贵司在招兵买马？[该仓库](../../../Resume)托管着我的电子简历，可[点此](../../../Resume/blob/main/Glarboy.pdf)预览或下载简历
+> 贵司在招兵买马？[该仓库](../../../Resume)托管着我的电子简历，可[点此](../../../Resume/blob/main/Glarboy.pdf)预览或下载简历
 
 ### I'm learning...
 - Flutter
@@ -24,6 +24,7 @@ Hunting for a internship or job
     </td>
     <td>
     <a href="https://github.com/Nahida1O27/github-readme-stats">
+      <!---TODO: use github action/workflow instead--->
     <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nahida1O27&layout=donut-vertical&langs_count=9&theme=dracula"/>
     </a>
     </td>
